@@ -20,3 +20,6 @@ A Machine Learning and Full Stack Software Engineer 👨‍💻 who loves develo
 ## 📈 My GitHub Stats:
 ![A+](https://github-readme-stats.vercel.app/api?username=senavs&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senavs&layout=compact&hide_border=true)
+
+<!-- from https://github.com/Platane/snk -->
+![Snake Status](./images/github-senavs-snake.svg)
