@@ -14,7 +14,6 @@ A Machine Learning and Full Stack Software Engineer 👨‍💻 who loves develo
 - 👯 I’m looking to collaborate on projects to decrease time and costs.
 - 🤔 I’m looking for live in Canada 🍁😍.
 - 💬 Ask me if i can hack a facebook and instagram account 👨‍💻.
-- 😄 Pronouns: _**[He/Him](https://pronoun.is/he)**_.
 - ⚡ Fun fact: Little man 👶 with 1.60 meters height.
 
 ## 📈 My GitHub Stats:
