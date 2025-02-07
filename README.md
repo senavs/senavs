@@ -14,11 +14,10 @@ A Machine Learning and Full Stack Software Engineer 👨‍💻 who loves develo
 - 👯 I’m looking to collaborate on projects to decrease time and costs.
 - 🤔 I’m looking for live in Canada 🍁😍.
 - 💬 Ask me if i can hack a facebook and instagram account 👨‍💻.
-- ⚡ Fun fact: Little man 👶 with 1.60 meters height.
 
 ## 📈 My GitHub Stats:
-![A+](https://github-readme-stats.vercel.app/api?username=senavs&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senavs&layout=compact&hide_border=true)
+<!-- ![A+](https://github-readme-stats.vercel.app/api?username=senavs&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=senavs&layout=compact&hide_border=true) -->
 
 <!-- from https://github.com/Platane/snk -->
 ![Snake Status](./images/github-senavs-snake.svg)
